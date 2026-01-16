@@ -1,10 +1,5 @@
 ### <h1>Hi Dear, I’m Vin</h1>
-🎓 Third Year as a Computer Science student at AUB (ACLEDA University Of Business). <br />
-🧑‍🏫 A Frontend Mobile Development .<br />
-💼 I'm looking for a job.<br />
 📬 How to reach me: +855 12 62 58 60 , theavinhem@gmail.com
-.<br />
-
 # 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theavinhem@gmail.com) 
 
