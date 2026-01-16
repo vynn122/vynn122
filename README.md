@@ -1,5 +1,7 @@
 ### <h1>Hi Dear, I’m Vin</h1>
+ <br />
 📬 How to reach me: +855 12 62 58 60 , theavinhem@gmail.com
+.<br />
 # 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theavinhem@gmail.com) 
 
